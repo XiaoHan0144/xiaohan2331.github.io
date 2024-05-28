@@ -22,7 +22,7 @@ window.Config = {
       url: 'http://catworld.icu/'
     },
     {
-      text: 'MCSManager'
+      text: 'MCSManager',
       url: 'http://catworld.icu:23333'
     },
     {
