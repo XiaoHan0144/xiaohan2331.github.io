@@ -18,16 +18,16 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: 'Homepage',
-      url: 'https://status.org.cn/'
+      text: 'Alist',
+      url: 'http://catworld.icu/'
     },
     {
       text: 'GitHub',
-      url: 'https://github.com/yb/uptime-status'
+      url: 'https://github.com/Xiaohan2331'
     },
     {
       text: 'Blog',
-      url: 'https://abo.xyz/'
+      url: 'http://catworld.icu:8080'
     },
   ],
 };
